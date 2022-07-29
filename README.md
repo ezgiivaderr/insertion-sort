@@ -13,10 +13,10 @@ Proje 1
  [2 6 16 22 18 27] -< n-2
  [2 6 16 18 22 27] -< 1
  
- 2)Big-0 : n+n-1+n-2+...+1=(n²+n)/2 ->> O(n²)
+2)Big-0 : n+n-1+n-2+...+1=(n²+n)/2 ->> O(n²)
  worst case
  
- 4) 18 mid sayıdır =>average case
+4)18 mid sayıdır =>average case
  
                         
  
